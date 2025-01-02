@@ -123,10 +123,5 @@ README.md           # Documentation du projet
 
 ---
 
-
----
-
----
-
 ## 🎯 **Merci d'utiliser Weather Dashboard ! 🌤️**
 N'hésitez pas à ouvrir une **issue** sur GitHub en cas de problème ou pour proposer des améliorations.
